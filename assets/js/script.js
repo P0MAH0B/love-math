@@ -44,7 +44,7 @@ function runGame(gameType) {
         displaySubtractQuestion(num1, num2);
       }
       else if (gameType === "division") {
-        displaySubtractQuestion(num1, num2);
+        displayDivisionQuestion(num1, num2);
       }
 
       else {
